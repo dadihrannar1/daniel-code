@@ -22,7 +22,7 @@ int main(int argc, char *argv[]) {
   randomNumber2 *= 2;
   randomNumber3 *= 2;
 
-  std::cout << "Hello, welcome back. Please select a box-type by typing either 1, 2, 3 or 4:";
+  std::cout << "Hello Sir fucks alot, welcome back. Please select a box-type by typing either 1, 2, 3 or 4:";
   std::cin >> first_Float;
   std::cout << "Thanks, the changes are now applied.:" << std::endl;
 
