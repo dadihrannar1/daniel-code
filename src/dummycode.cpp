@@ -79,7 +79,7 @@ int main(int argc, char *argv[]) {
   teleport_client.call(srv);
 
   pen_srv.request.off = false;
-  pen_srv.request.width = 4;
+  pen_srv.request.width = 3;
   pen_srv.request.r = randomNumber1;
   pen_srv.request.g = randomNumber2;
   pen_srv.request.b = randomNumber3;
